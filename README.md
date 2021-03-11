@@ -40,12 +40,6 @@
 
 
 ### 📕 Latest Blog Posts
-
-
 - [Cool Amazing CSS Grid](https://dev.to/rkrider/cool-amazing-css-grid-1542)
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkrider&show_icons=true&theme=radical)](https://github.com/rkrider/github-readme-stats)
-</details>
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkrider&show_icons=true&theme=radical)
