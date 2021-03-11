@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I love to ride motorbikes
 - 💻 I'm looking for paid internship in web development
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
+[![GitHub followers](https://img.shields.io/github/followers/rkrider.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rkrider?tab=followers)
 
 ### Connect with me:
 
@@ -15,6 +17,7 @@
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rk_terrific_rider/)
 
 <br />
+
 
 ### Languages and Tools:
 
@@ -33,6 +36,9 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkrider&layout=compact)](https://github.com/rkrider/github-readme-stats)
+
+
 ### 📕 Latest Blog Posts
 
 
@@ -41,8 +47,5 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkrider&show_icons=true&theme=radical)](https://github.com/rkrider/github-readme-stats)
-
-
 </details>
