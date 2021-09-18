@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 I am learning ReactJS
 - ⚡ Fun fact: I love to ride motorbikes
-- 💻 I'm looking for paid internship in web development
+- 💻 I'm currently doing internship at GoBudGo
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 [![GitHub followers](https://img.shields.io/github/followers/rkrider.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rkrider?tab=followers)
