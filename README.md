@@ -1,10 +1,10 @@
 ### Hi there, I'm Rahul Kumar  👋
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m working at Cogoport as a Software Developement Engineering Intern.
+- 🌱 I’m currently learning everything.
+- 👯 I’m working at Cogoport as an Associate Software Engineer.
 - 🥅 I am learning Next.js
 - ⚡ Fun fact: I love to ride motorbikes
-- 💻 I'm currently doing internship at Cogoport
+- 💻 I'm currently doing Full time at Cogoport
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 [![GitHub followers](https://img.shields.io/github/followers/rkrider.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rkrider?tab=followers)
