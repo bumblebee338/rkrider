@@ -41,5 +41,6 @@
 
 ### 📕 Latest Blog Posts
 - [Cool Amazing CSS Grid](https://dev.to/rkrider/cool-amazing-css-grid-1542)
+- [Integrate Google Authenticator App with Nodejs | Two-Factor Authentication](https://medium.com/@rahulomnitrics/integrate-google-authenticator-app-with-nodejs-two-factor-authentication-77426e2353dc)
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkrider&show_icons=true&theme=radical)
